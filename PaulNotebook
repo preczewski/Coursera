@@ -1,0 +1,10 @@
+<strong>My Jupyter Notebook on IBM Watson Studio</strong>
+
+<a href="https://render.githubusercontent.com/view/ipynb?color_mode=auto&amp;commit=bed121ea6146d575c09b86b0a831f6efab26310c&amp;enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f54686f6d61732d47656f7267652d542f49424d2d446174612d536369656e63652d50726f66657373696f6e616c2d43657274696669636174696f6e2f626564313231656136313436643537356330396238366230613833316636656661623236333130632f322e546f6f6c735f666f725f446174615f536369656e63652f5765656b253230342532302d25323046696e616c25323041737369676e6d656e742f46696e616c5f41737369676e6d656e742e6970796e62&amp;nwo=Thomas-George-T%2FIBM-Data-Science-Professional-Certification&amp;path=2.Tools_for_Data_Science%2FWeek+4+-+Final+Assignment%2FFinal_Assignment.ipynb&amp;repository_id=265051657&amp;repository_type=Repository#My-Jupyter-Notebook-on-IBM-Watson-Studio" target="_blank" rel="noopener"></a>
+</p>
+<p><strong>Paul Preczewski</strong></p>
+<p>Data Scientist</p>
+<p><em>My interest in data science is to use the tools I learn to better protect the the population through my government job in Public Health</em></p>
+<p><strong>The below should print ‘Hello World’</strong></p>
+<pre class="wp-block-preformatted">print("Hello World!")</pre>
+<p><br>Hello World!</p>
